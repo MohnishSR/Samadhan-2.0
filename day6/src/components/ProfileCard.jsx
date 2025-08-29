@@ -1,4 +1,3 @@
-import PropTypes from 'prop-types';
 import './ProfileCard.css';
 
 function ProfileCard({ name, bio, avatar }) {
@@ -14,11 +13,5 @@ function ProfileCard({ name, bio, avatar }) {
     </div>
   );
 }
-
-ProfileCard.propTypes = {
-  name: PropTypes.string.isRequired,
-  bio: PropTypes.string.isRequired,
-  avatar: PropTypes.string.isRequired,
-};
 
 export default ProfileCard;
