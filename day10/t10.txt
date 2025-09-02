@@ -1,0 +1,5 @@
+Day 10: Styling
+P2
+Tailwind CSS setup
+Component-based styling
+Mini task: Styled Product Card List
