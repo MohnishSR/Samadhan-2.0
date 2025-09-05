@@ -1,0 +1,5 @@
+Day 12: React + API
+P3
+Fetch + render data from backend
+Add + Delete functionality
+Mini task: To-Do App (with Node backend)
